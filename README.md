@@ -2,9 +2,9 @@
 
 ## Personal Info
 
-Name: Tirza Gabriella
-NIM: 2602109870
-Class: L4AC
+* Name: Tirza Gabriella
+* NIM: 2602109870
+* Class: L4AC
 
 ### Instructions
 
